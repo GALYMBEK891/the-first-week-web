@@ -1,0 +1,64 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h1 h2 h3 {
+    font-family: Arial, Helvetica, sans-serif,;
+}
+h1 h2 h3 {
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+h1 {
+    font-size: 32px;
+}
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.tttre {
+    margin: 10px;
+    background: #eb4c0c;
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+}
+.youcando   {
+    position: relative;
+    left: 50px;
+    right: 50px;
+    
+
+}
+.modal__close {
+  }
+  
+  .modal__footer {
+    text-align: right;
+    padding: 5px;
+
+  }
+.buttton1 {
+    border: 1px solid black;
+    padding: 8px 16px;
+    background: #4e5cf7;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: border-radious 2s ease-;
+  }
+  button:focus {
+    background: #0dea32f2;
+    border-radius: 15px;
+   
+  }
+ .container {
+    margin: 8px;
+    padding: 32px;
+    text-align: center;
+    font: 32px sans-serif;
+    content: " ";
+ }
+ 
